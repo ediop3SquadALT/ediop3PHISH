@@ -12,12 +12,6 @@ pkg install zip
 
 chmod +x ./termux.sh
 
-./termux.sh
-
-unzip ediop3PHISH.sh
-
-cd ediop3PHISH
-
 bash ediop3PHISH.sh
 
 
@@ -33,9 +27,5 @@ sudo apt install zip
 chmod +x ./Linux.sh
 
 ./Linux.sh
-
-unzip ediop3PHISH.sh
-
-cd ediop3PHISH.sh
 
 sudo bash ediop3PHISH.sh
