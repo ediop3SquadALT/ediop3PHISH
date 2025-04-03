@@ -1,5 +1,5 @@
 go to releases and download the zip. 
-
+[ediop3PHISH.zip](https://github.com/user-attachments/files/19587653/ediop3PHISH.zip)
 # on termux. 
 open it up and type
 
