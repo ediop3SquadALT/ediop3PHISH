@@ -30,9 +30,9 @@ cd ediop3PHISH
 
 sudo apt install zip
 
-chmod +x ./linux.sh
+chmod +x ./Linux.sh
 
-./linux.sh
+./Linux.sh
 
 unzip ediop3PHISH.sh
 
